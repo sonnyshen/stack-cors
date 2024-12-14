@@ -1,4 +1,4 @@
-# Stack/Cors
+# Stack/Cors 1
 
 Library and middleware enabling cross-origin resource sharing for your
 http-{foundation,kernel} using application. It attempts to implement the
